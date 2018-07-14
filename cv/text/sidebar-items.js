@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ClassifierType",""],["ComponentLevel",""]],"struct":[["OcrHmmDecoder","`OcrHmmDecoder` class provides an interface with the HmmDecoder-ocr API"],["OcrHolisticWord","`OcrHolisticWord` class provides an interface with the tesseract-ocr API"]],"trait":[["Ocr","Basic trait for all OCR types"],["OcrImplInterface",""]]});
